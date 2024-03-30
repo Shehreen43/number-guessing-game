@@ -1,4 +1,4 @@
-#! /usr/bin/evn node
+#! /usr/bin/env node
 import inquirer from "inquirer";
 //1) computer will generate a random num
 const randomNumber = Math.floor(Math.random() * 10 + 1);
