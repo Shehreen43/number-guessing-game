@@ -1,5 +1,5 @@
 {
-  "name": "number-guessing-game",
+  "name": "shehreen-cli-guessing-game",
   "version": "1.0.0",
   "description": "This is cli based number guessing game",
   "main": "index.js",
